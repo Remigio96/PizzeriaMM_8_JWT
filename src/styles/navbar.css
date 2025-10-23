@@ -1,0 +1,11 @@
+.btn-soft {
+  background-color: rgba(13, 110, 253, 0.15);
+  border: none;
+  color: #fff !important;
+  transition: all 0.25s ease;
+}
+
+.btn-soft:hover {
+  background-color: rgba(13, 110, 253, 0.35);
+  color: #fff !important;
+}
