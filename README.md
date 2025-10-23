@@ -143,5 +143,6 @@ Authorization: Bearer <token>
 ---
 
 ## 🍕 Live Preview
+<img width="1918" height="578" alt="image" src="https://github.com/user-attachments/assets/c2df79a6-3161-470e-8cff-10b0f49f29cb" />
 
-
+https://remigio96.github.io/PizzeriaMM_8_JWT
